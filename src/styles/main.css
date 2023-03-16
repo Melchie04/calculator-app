@@ -7,6 +7,16 @@ body {
     background: linear-gradient(to right, #00AAFF, #00FF6C);
 }
 
+.col-1 {
+    background-color: white;
+}
+.col-2 {
+    background-color: black;
+}
+.col-3 {
+    background-color: white;
+}
+
 .calculator-grid {
     display: grid;
     margin-top: 3rem;
